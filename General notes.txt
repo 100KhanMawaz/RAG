@@ -1,0 +1,9 @@
+
+uv pip install -r requirements.txt   # install into environment
+uv add -r requirements.txt           # add requirements to a UV project into pyproject.toml
+
+git remote set-url origin https://github.com/YOUR_USERNAME/Langchain-V1-Crash-Course.git
+
+this will set the origin to my GitHub account removing from main(current) reference account
+
+ Github SSH token 4697-A31C
